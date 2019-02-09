@@ -1,5 +1,5 @@
 //<![CDATA[
-var disqus_shortname="USERNAME DISQUS";
+var disqus_shortname="ridwanmikhsan";
 var disqus_url = disqus_blogger_current_url;
 (function () {
  "use strict";
@@ -40,3 +40,4 @@ $(".commentbtn").click(function (e) {
 $(this).addClass("btncurrent").siblings().removeClass("btncurrent");
 });
 //]]>
+
